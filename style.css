@@ -1,0 +1,50 @@
+.header {
+  padding: 12px;
+  margin: 6px;
+  background-color: rgb(205, 205, 226);
+}
+
+.main {
+  padding: 6px;
+  margin: 0px;
+}
+
+.footer {
+  padding: 6px;
+  margin: 0px;
+}
+
+h1 {
+  font-size: 35px;
+}
+
+h3 {
+  padding: 5px;
+  margin: 10px;
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+.div {
+  padding: 10px;
+  border-style: groove;
+}
+
+.text {
+  font-size: 20px;
+  text-decoration-style: double;
+}
+
+li {
+  font-size: 25px;
+}
+
+h4 {
+  font-size: 30px;
+  margin: 5px;
+}
+
+.address {
+  font-size: 30px;
+}
+
